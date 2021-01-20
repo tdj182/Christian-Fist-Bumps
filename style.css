@@ -1,0 +1,17 @@
+body {
+  background: pink;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div {
+  width: 50%
+}
+
+div.progress {
+  width: 90%;
+}
