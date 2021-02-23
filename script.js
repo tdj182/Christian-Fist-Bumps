@@ -1,5 +1,5 @@
 let current = 20
-let goal = 15
+let goal = 30
 const bar = document.getElementById("percent-bar")
 const counter = document.getElementById("header-counter")
 const message = document.getElementById("header-message")
